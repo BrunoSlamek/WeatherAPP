@@ -2,6 +2,6 @@
 
 
 # WeatherAPP
- Weather app using API openweathermap
+ Weather app using API openweathermap and Tkinter library
  
  https://openweathermap.org/api
